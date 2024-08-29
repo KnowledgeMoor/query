@@ -1,0 +1,10 @@
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\configs\OpenApiConfig.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\controller\ExceptionsController.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\controller\NotaFiscalController.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\domain\NotaFiscal.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\dto\NotaFiscalDTO.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\QueryApplication.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\repository\NotaFiscalRepository.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\service\exceptions\NaoAcheiException.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\service\NotaFiscalService.java
+C:\Users\aluno\Documents\Gabriel\Terceiro Periodo\Back-End\Tarefas\Excercicio_06_Querry_creation\query\src\main\java\br\edu\iftm\query\service\util\Converter.java

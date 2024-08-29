@@ -1,0 +1,30 @@
+# NotaFiscal
+#---------------------------
+
+### 
+GET /notaFiscal/findById/100
+Host: localhost:8080
+
+###
+GET /notaFiscal/itemsSoldWithoutDiscount
+Host: localhost:8080
+
+###
+GET /notaFiscal/itemsSoldWithDiscount
+Host: localhost:8080
+
+###
+GET /notaFiscal/itemsOrderByValorUnitDesc
+Host: localhost:8080
+
+###
+GET /notaFiscal/topSellingProduct
+Host: localhost:8080
+
+###
+GET /notaFiscal/nfWithMoreThan10UnitsSold
+Host: localhost:8080
+
+###
+GET /notaFiscal/totalNFValueGreaterThan500OrderByDesc
+Host: localhost:8080
